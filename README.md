@@ -23,11 +23,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=diogosmota58&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogosmota58&theme=dark&hide_border=true" height="165" />
-
 <hr>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=diogosmota58&label=Visitas%20ao%20perfil&color=2EA043&style=flat" alt="Contador de visitas" />
+</p>
 
 <p><i>Aberto a colaborar em projetos de Shopify, Web Apps e automação com IA 🚀</i></p>
